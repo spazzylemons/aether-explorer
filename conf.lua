@@ -1,0 +1,5 @@
+title = "Aether Explorer"
+author = "spazzylemons"
+shortname = "aether_explorer"
+version = "0.1.0"
+copyright_message = "Licensed under MIT."
